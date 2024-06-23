@@ -1,0 +1,1 @@
+Podemos generar una conexión a cualquier pagina web que maneje un Apache OFBiz con el siguiente enlace de GitHub: https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass es una Vulnerabiliad OFBiz-Authentication 
